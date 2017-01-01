@@ -1,7 +1,7 @@
 {
   "name": "emptybot",
   "version": "1.0.0",
-  "description": "",
+  "description": "azure bot service sample app",
   "main": "index.js",
   "dependencies": {
     "botbuilder": "^3.4.2",
@@ -13,6 +13,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "gupuru",
+  "license": "MIT"
 }
